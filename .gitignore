@@ -1,0 +1,13 @@
+﻿node_modules/
+.next/
+.vercel/
+.env
+.env.local
+.env.*.local
+*.zip
+public/ai-robo.jpeg
+public/hill-train-journey.mp4
+public/music.mp3
+public/ai-robo.jpeg
+public/hill-train-journey.mp4
+public/music.mp3
